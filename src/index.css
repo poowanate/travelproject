@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.title{
+    color: #4ec2e8;
+}
+.bordertitle{
+  
+    border-color: #4ec2e8 !important;
+}
+
+@media screen and (max-width: 640px) {
+    .visble{
+        content-visibility: hidden;
+    }
+}
+    
+@screen sm {
+    .visble{
+        content-visibility: hidden;
+    }
+  }
+  @screen md {
+    .visble{
+        content-visibility: visible;
+    }
+  }
+  @screen lg {
+    .visble{
+        content-visibility: visible;
+    }
+  }

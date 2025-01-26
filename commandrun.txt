@@ -1,0 +1,3 @@
+json-server --watch db.json --port 9000
+
+fastapi dev gatewayapi.py
