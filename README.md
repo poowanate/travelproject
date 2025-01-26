@@ -34,7 +34,7 @@ Start the server
 ```
 
 
-## Running Backend
+## Running mockdata
 
 To run tests, run the following command
 
@@ -44,7 +44,7 @@ To run tests, run the following command
 ```
 
 
-## Running Fastapi
+## Running backend Fastapi
 
 To run tests, run the following command
 
