@@ -4,7 +4,7 @@
 project เที่ยวไหนดี 
 ใช้ Backend คือ Fastapi ภาษา phython
 
-
+#หมายเหตุตัว react จะต้องรันในport :3000 เพื่อรองรับ Access-Control-Allow-Origin 
 
 
 ## Run Locally
